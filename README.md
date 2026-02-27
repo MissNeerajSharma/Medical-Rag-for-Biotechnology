@@ -37,8 +37,8 @@ Before running this project, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rohitpkkumar/BioMistral_Medical_RAG
-cd BioMistral_Medical_RAG
+git clone  https://github.com/MissNeerajSharma/Medical-Rag-for-Biotechnology
+cd Medical-Rag-for-Biotechnology
 ```
 ### 2. Create a Virtual Environment
 ```bash
